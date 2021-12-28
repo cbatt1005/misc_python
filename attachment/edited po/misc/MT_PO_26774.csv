@@ -1,0 +1,8 @@
+Invoice #,Receive Date,PO #,Shipment #,Ship Date,Carrier,Receiving #,Amount Due,
+None,11/16/2021,26774,26774,10/22/2021,Fastbreak Consolid,,"$3,096.00 ",
+Supplier ID Product N,,Package,,Product,Vintage,Cs/Btl,Price,Ext Price
+CAB750,1730,12/750ml,"Cab, FitVine",,2018,14 / 0,$84.00 ,"$1,176.00 "
+CHARD75,1731,12/750ml,"Chard, FitVine",,2019,Jul-00,$84.00 ,$588.00 
+PG750,5710,12/750ml,"Prosecco, FitVine",,,Apr-00,$102.00 ,$408.00 
+,11006,12/750ml,"Red Blend, FitVine",,2019,Apr-00,$84.00 ,$336.00 
+SB750,2362,12/750ml,"Sauv Blanc, FitVine",,2019,Jul-00,$84.00 ,$588.00 

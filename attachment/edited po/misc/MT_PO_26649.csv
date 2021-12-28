@@ -1,0 +1,5 @@
+Invoice #,Receive Date,PO #,Shipment #,Ship Date,Carrier,Receiving #,Amount Due,
+None,11/8/2021,26649,26649,,Fastbreak Consolid,,"$1,890.00 ",
+Supplier ID Product N,Package,,,Product,Vintage,Cs/Btl,Price,Ext Price
+CAB750,1730,12/750ml,"Cab, FitVine",,2018,14 / 0,$84.00 ,"$1,176.00 "
+PN750,1733,12/750ml,"Pinot Noir, FitVine",,2018,Jul-00,$102.00 ,$714.00 
